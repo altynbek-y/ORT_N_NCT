@@ -1,6 +1,6 @@
-## ОРТ и НЦТ: Privacy policy
+## ОРТ и НЦТ (offline): Privacy policy
 
-Welcome to the "ОРТ и НЦТ" app for Android!
+Welcome to the "ОРТ и НЦТ (offline)" app for Android!
 
 This is an open source Android app developed by Nami Aspera. The source code is available on GitHub under the MIT license; the app is also available on Google Play.
 
